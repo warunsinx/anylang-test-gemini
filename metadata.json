@@ -1,0 +1,5 @@
+{
+  "name": "Anylang",
+  "description": "A minimalist language learning tool. Generate articles, extract vocabulary, and track your journey to 10,000 words.",
+  "requestFramePermissions": []
+}
